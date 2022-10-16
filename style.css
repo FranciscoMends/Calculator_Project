@@ -11,11 +11,12 @@ input {
     text-align: center;
 }
 
-input#operator {
-    width: 20px;
+select#operators {
+    width: 40px;
     height: 25px;
     margin-left: 10px;
     margin-right: 10px;
+    text-align: center;
 }
 
 input#boot {
@@ -64,4 +65,8 @@ img#primaryimg {
 
 p#one_p {
     font: normal 13pt italic;
+}
+
+footer a{
+    color: aqua;
 }
