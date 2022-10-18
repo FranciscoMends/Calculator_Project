@@ -21,4 +21,4 @@ function calculate() {
         result = number_one / number_two
         resp.innerHTML = (`A divisão entre ${number_one} e ${number_two} é: ${result}`)
     }
-}
+} 
